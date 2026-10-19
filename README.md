@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**lava-m312/lava-m312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about software development, AI, and open-source contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Open Source Contributions
+
+### Open Source Radar — Merged PR 🎉
+
+- **Contribution:** Spanish translation of Chapter 10, *Reading a Codebase*.
+- **Work:** Translated the chapter and updated the Spanish guide index.
+- **Status:** ✅ Successfully merged
+- **Pull Request:** [#206 — View my contribution](https://github.com/TanbirRamim/open-source-radar/pull/206)
+
+## 💻 Interests
+
+- Data Structures and Algorithms
+- Artificial Intelligence and AI Agents
+- Open-Source Software
+- Building useful software projects
+
+I'm continuing to learn, contribute, and improve through real-world software development.
